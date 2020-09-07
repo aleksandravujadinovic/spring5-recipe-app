@@ -20,12 +20,4 @@ public class UnitOfMeasure {
     public UnitOfMeasure() {
     }
 
-    public void setUnitOfMeasure(String unitOfMeasure) {
-        this.description = unitOfMeasure;
-    }
-
-    public String getUnitOfMeasure() {
-        return description;
-    }
-
 }
